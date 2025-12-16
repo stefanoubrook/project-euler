@@ -1,4 +1,3 @@
-### The Goal
 # Project Euler Solutions
 
 This repository is a collection of my solutions to [Project Euler](https://projecteuler.net/) problems.
